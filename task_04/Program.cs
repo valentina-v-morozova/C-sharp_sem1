@@ -14,7 +14,7 @@ int Prompt(string message)
 }
 
 int Value = Prompt("Введите число > ");
-if (Value <1)
+if (Value <2)
 {
 System.Console.Write($"{Value} -> нет значений");    
 }
@@ -22,12 +22,12 @@ else
 {
 int Value1 = Value % 2;
 int count = 2;
-System.Console.Write($"{Value} -> 2,");
+System.Console.Write($"{Value} -> ");
 
 while(count < Value)
 {
-    count = count + 2;
-    Console.Write($"{count},");
+        Console.Write($"{count},");
+        count = count + 2;
     }
 
 if(Value1 == 0)
