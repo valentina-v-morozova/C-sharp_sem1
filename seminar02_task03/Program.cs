@@ -12,7 +12,7 @@ int userNumber = Prompt("Введите число > ");
 
 if (userNumber < 100)
 {
-Console.WriteLine($"{userNumber} -> в этом числе нет 3 цифры");
+    Console.WriteLine($"{userNumber} -> в этом числе нет 3 цифры");
 }
 else
 {
