@@ -3,7 +3,7 @@
 // 2, 4 -> 16
 
 int firstNumber = Prompt("Введите число 1 > ");
-int secondNumber = Prompt("Введите число 1 > ");
+int secondNumber = Prompt("Введите число 2 > ");
 
 
 int Prompt(string message)
