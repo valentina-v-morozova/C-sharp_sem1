@@ -16,3 +16,8 @@
 - seminar03_task01
 - seminar03_task02
 - seminar03_task03
+
+**ДЗ к семинару №4**
+- seminar04_task01
+- seminar04_task02
+- seminar04_task03
