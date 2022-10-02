@@ -15,7 +15,7 @@ int Prompt(string message)
 int Degree(int n)
 {
     int degree = firstNumber;
-    for (int i = 1; i <= secondNumber; i = i - 1)
+    for (int i = 1; i <= secondNumber; i++)
     {
         degree = firstNumber * degree;
     }
