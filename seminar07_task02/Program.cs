@@ -13,13 +13,13 @@ int[,] numbers = new int[height, length];
 
 FillArrayRandomNumbers(numbers);
 
-
 if (line > numbers.GetLength(0) || coll > numbers.GetLength(1))
 {
     Console.WriteLine();
     Console.WriteLine("такого элемента нет");
     Console.WriteLine();
 }
+
 else
 {
     Console.WriteLine();
