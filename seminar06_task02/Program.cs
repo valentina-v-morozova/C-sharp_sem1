@@ -5,7 +5,7 @@ double bFirst = Prompt("Введите значение b1 > ");
 double kFirst = Prompt("Введите значение k1 > ");
 double bSecond = Prompt("Введите значение b2 > ");
 double kSecond = Prompt("Введите значение k2 > ");
-double xCoord = (-bSecond + bFirst)/(-kFirst + kSecond);
+double xCoord = (-bSecond + bFirst) / (-kFirst + kSecond);
 double yCoord = kSecond * xCoord + bSecond;
 
 double Prompt(string message)
