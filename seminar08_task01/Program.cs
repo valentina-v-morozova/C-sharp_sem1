@@ -40,11 +40,11 @@ void PrintArray(int[,] array)
 
 void OrderArrayLines(int[,] array)
 {
-    for (int i = 0; i < array.GetLength(0); i++) //переход между строками
+    for (int i = 0; i < array.GetLength(0); i++)
     {
-        for (int j = 0; j < array.GetLength(1); j++) //перебираем значения в строке
+        for (int j = 0; j < array.GetLength(1); j++)
         {
-            for (int k = 0; k < array.GetLength(1) - 1; k++) //работаем со строкой как с одномерным массивом
+            for (int k = 0; k < array.GetLength(1) - 1; k++)
             {
                 if (array[i, k] < array[i, k + 1])
                 {
