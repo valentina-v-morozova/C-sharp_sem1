@@ -33,7 +33,7 @@ void PrintArray(int[,] array)
         {
             Console.Write($"{array[i, j]}\t ");
         }
-    Console.WriteLine("");
+        Console.WriteLine("");
     }
 }
 
