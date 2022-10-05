@@ -35,3 +35,8 @@
 - seminar07_task01
 - seminar07_task02
 - seminar07_task03
+
+**ДЗ к семинару №8**
+- seminar08_task01
+- seminar08_task02
+- seminar08_task03
