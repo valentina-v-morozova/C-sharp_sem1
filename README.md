@@ -40,3 +40,8 @@
 - seminar08_task01
 - seminar08_task02
 - seminar08_task03
+
+**ДЗ к семинару №9**
+- seminar09_task01
+- seminar09_task02
+- seminar09_task03
