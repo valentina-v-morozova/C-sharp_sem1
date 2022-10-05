@@ -30,3 +30,8 @@
 **ДЗ к семинару №6**
 - seminar06_task01
 - seminar06_task02
+
+**ДЗ к семинару №7**
+- seminar07_task01
+- seminar07_task02
+- seminar07_task03
