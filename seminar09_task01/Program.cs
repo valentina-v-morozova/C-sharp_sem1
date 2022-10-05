@@ -6,7 +6,6 @@ int number = Prompt("Введите значение N > ");
 int count = 1;
 NaturalToLow(number, count);
 
-
 int Prompt(string message)
 {
     Console.Write(message);
